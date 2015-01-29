@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="simple_screen_text">Simple List View</string>
+    <string name="complex_screen_text">Complex List View</string>
+    <string name="action_settings">Settings</string>
+    <string name="complex_button_text">Complex</string>
+    <string name="simple_button_text">Simple</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_complex_list_view">ComplexListViewActivity</string>
+
+    <string name="data_server_ip">192.168.1.91:3000</string>
+
+</resources>
